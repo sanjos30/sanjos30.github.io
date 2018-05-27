@@ -1,1 +1,32 @@
-theme: minima
+highlighter: rouge
+permalink: none
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: sanjos30/sanjos30.github.io
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:month/:day/:title/
+google_analytics: 'GOOGLE ANALYTIC CODE TO BE DONE'
+title: Sandeep
+description: Sandeep Joshi - Portfolio & Personal Blog.
+url: http://sanjos30.com
+author: Sandeep Joshi
+twitter:
+  username: sanjos30
+logo: images/contents/NN.png
+social:
+  name: Sandeep
+  links:
+    - https://twitter.com/sanjos30
+    - https://www.linkedin.com/in/joshisandeep
+    - https://github.com/sanjos30
