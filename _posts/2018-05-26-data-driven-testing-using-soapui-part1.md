@@ -2,10 +2,16 @@
 layout: post
 title: Data driven testing using SOAP-UI
 category: Automation
-excerpt: Guide on how to use.
+excerpt: Guide on how to use
 ---
 
-The key challenges with testing web-services or API in a SDLC is how to test a service across different environments, which usually have different test-data, different endpoints etc.
+## Background
+
+Some of the key challenges during testing a web-service or an API are listed below:
+
+ - Back-end availability - This generally happens when your service code  is ready but the back-end isn't. In such cases, you will generally mock your back-end.
+ - Different data across environments - This is a common pain point that I hear most of the time. This post will try to address this issue using SOAPUI
+ - Different URLs across environments - Although test cases aren't directly related to a target environment(generally), but test data and API urls are directly related to environment. In this post, I'll be talking more about these two pain points. Keep reading !
 
 In this post, I&#39;ll talk to you on how to use SOAPUI to perform dynamic data driven web service or API testing. In this example, I&#39;ll test a very simple web-service that returns details of a customer, given a valid customer Id.
 
