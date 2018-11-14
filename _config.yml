@@ -16,7 +16,7 @@ defaults:
     values:
       layout: post
       permalink: /blog/:year/:month/:day/:title/
-google_analytics: 'GOOGLE ANALYTIC CODE TO BE DONE'
+google_analytics: UA-129227130-1
 title: Sandeep
 description: Sandeep Joshi - Portfolio & Personal Blog.
 url: https://sanjos30.github.io
