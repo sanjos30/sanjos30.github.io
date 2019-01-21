@@ -15,7 +15,7 @@ layout: default
 
       <p>I <a href="/reading-list" target="_new">read</a>, <a href="/blog/" target="_new">write</a> & <a href="https://github.com/sanjos30" target="_new">code</a>.</p>
       
-      <p>My latest startup - <a href="http://youwashwepress.com.au" target="_blank">YouWashWePress</a>
+      <p>My latest startup - <a href="http://youwashwepress.com.au" target="_blank">YouWashWePress</a> </p>
 
     </div>
     <hr />
