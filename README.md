@@ -4,7 +4,7 @@ This is the repository for my [blog](http://sanjos30.com). I sometimes write abo
 
 ### Usage
 
-Refer to the source code. Drop me a line, if you have any questions
+Refer to the source code for more details about the problem. Drop me a line, if you have any questions
 
 ### The end
 
